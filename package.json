@@ -1,0 +1,25 @@
+{
+  "name": "status",
+  "version": "1.0.0",
+  "description": "A package for checking the status of a server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SealedSaucer/Fake-Streamer/issues"
+  },
+  "homepage": "https://github.com/SealedSaucer/Fake-Streamer#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "discord.js-selfbot-v11": "^11.5.1",
+    "discord.js-selfbot-v13": "^2.13.2",
+    "discordrpcgenerator": "^1.2.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.18.1"
+  }
+}
